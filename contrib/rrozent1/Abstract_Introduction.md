@@ -1,0 +1,8 @@
+Innovation as measured by new patents issued.
+
+Abstract
+Companies heavily invest in research and development in the current competitive environment to promote innovation, which is frequently 
+measured by the number of patents obtained. The sheer number of patents, however, might not always be a reliable sign of ground-breaking or creative contributions to the subject. This study investigates whether businesses that acquire a greater number of patents, scaled by their R&D expenditure, necessarily yield inventions that are inventive. Two metrics will be used to assess how innovative a patent is: originality, which indicates the novelty and distinctness of the patented invention, and citation rate, which shows the impact and acknowledgment of the patent in later research. These findings are vital for businesses looking to foster true innovation and offer insights into the effectiveness of R&D investments.
+
+Introduction
+Companies have been forced to boost their R&D expenditures as they compete to innovate, frequently using patent numbers as a barometer for their inventiveness. Stakeholders, including competitors and investors, frequently view a company's expanding patent portfolio as evidence of its inventive strength. But the question remains: Does a higher number of patents actually indicate higher quality or innovation, especially when measured against R&D expenditure? In order to address this, the connection between a company's total number of patents - normalized by R&D expenditure- and its actual level of innovation must be examined. The following analysis seeks to determine if more large patent portfolios inevitably imply ground-breaking contributions to the area by employing citation rate and originality as proxy indicators. 
